@@ -1,4 +1,3 @@
 #!/bin/bash
-python3 -c "$PYCODE"
-make betty style
+python3 -c  “$PYCODE”
 
